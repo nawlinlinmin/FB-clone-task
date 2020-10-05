@@ -110,17 +110,16 @@ label {
 }
 
 footer {
-  width: 100%;
-  background-color:#191970;
-  padding: 20px 0 10px 0;
-  color: white;
-  margin: auto;
-  padding-bottom: 10px;
-  font-size: 12px;
-  position: absolute;
+  background-color: #191970;
+  font-family: verdana, arial, helvetica, sans-serif;
+  text-align: center;
+  color: #C0C0C0;
   bottom: 0;
+  position: absolute;
+  width: 100%;
+  width:1370px;
+	margin:0 auto;
 }
-
 .row {
   background-color: #DCDCDC;
   margin-bottom: 50px;
